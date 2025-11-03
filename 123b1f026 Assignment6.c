@@ -1,3 +1,6 @@
+//Dhanshree balaji ghavas
+//DATE: 01/09/2025
+//PRN:123B1F026
 #include <stdio.h>
 
 // Function to get the maximum of two numbers
