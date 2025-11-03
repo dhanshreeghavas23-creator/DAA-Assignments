@@ -62,3 +62,8 @@ int main(){
     }
     return 0;
 }
+
+
+output 
+Sorted array: 12 21 34 43 45 67 89
+
