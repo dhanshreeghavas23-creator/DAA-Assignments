@@ -1,3 +1,6 @@
+//Dhanshree balaji ghavas
+//DATE: 07/07/2025
+//PRN:123B1F026
 #include <stdio.h>
 
 void mergeSort(int arr[],int left,int right){
